@@ -512,10 +512,10 @@ header ul .links .ml:hover{
 #products .divs:last-child{
 	border-right:none;
 }
-#products video{
+/*#products video{
 	position:relative;
 	z-index:-1;
-}
+}*/
 #products .divs p{
 	text-align:justify;
 }
